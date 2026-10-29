@@ -1,0 +1,5 @@
+true_group,length,recordings,predicted_noisy
+not Noisy,normal (>=20 s),7656,0.027734238941135494
+not Noisy,short (<20 s),591,0.04173716864072194
+truly Noisy,normal (>=20 s),159,0.7127882599580713
+truly Noisy,short (<20 s),120,0.4527777777777778
