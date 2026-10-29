@@ -1,0 +1,4 @@
+,macro_f1,macro_f1,challenge_f1,challenge_f1,f1_Normal,f1_Normal,f1_AF,f1_AF,f1_Other,f1_Other,f1_Noisy,f1_Noisy
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+model,,,,,,,,,,,,
+cnn,0.682,0.026,0.748,0.019,0.855,0.012,0.756,0.034,0.632,0.043,0.483,0.083
